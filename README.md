@@ -1,4 +1,4 @@
-# A Unified Benchmark for Assessing the Reliability of LLM-as-a-Judge in African Languages
+# A Benchmark for Assessing the Reliability of LLM-as-a-Judge in African Languages
 
 MSc thesis project (University of Amsterdam / CWI, 2026).  
 **Author:** Esteban Gatein · **Supervisor:** Clemencia Siro (CWI)
